@@ -1,3 +1,2 @@
-Fuck you, dont touch my code (unless you gib me free help or boy kiss)
-
-Also: NO DOOM SOURCE CODE!@!!!!2@!!1!!!!1!!
+This is an open source project build from the ground up to recreate the hit game GunKnight.
+We as former developers for the game weren't happy with where things where headed. So we as a team decided to abandon the project to create a better version.
